@@ -5,6 +5,7 @@ This repository contains my labs and projects for the Data Governance course. It
 ## Current Labs
 
 - **Data Quality Detective Challenge** (`data_quality_detective_challenge`)
+- **Multi-jurisdiction Compliance Challenge** (`m]ulti-jurisdiction-compliance-challenge`)
 - **Project Lab: Quick Loan Mobile Ethical Data Review** (`projec _lab_quick_loan_mobile_ethical_data_review`)
 
 ## Purpose
